@@ -1,0 +1,9 @@
+C:\Users\Dev\source\repos\LabCrud\LabCrud.Models\bin\Debug\netcoreapp3.1\LabCrud.Models.deps.json
+C:\Users\Dev\source\repos\LabCrud\LabCrud.Models\bin\Debug\netcoreapp3.1\LabCrud.Models.dll
+C:\Users\Dev\source\repos\LabCrud\LabCrud.Models\bin\Debug\netcoreapp3.1\LabCrud.Models.pdb
+C:\Users\Dev\source\repos\LabCrud\LabCrud.Models\obj\Debug\netcoreapp3.1\LabCrud.Models.csprojAssemblyReference.cache
+C:\Users\Dev\source\repos\LabCrud\LabCrud.Models\obj\Debug\netcoreapp3.1\LabCrud.Models.AssemblyInfoInputs.cache
+C:\Users\Dev\source\repos\LabCrud\LabCrud.Models\obj\Debug\netcoreapp3.1\LabCrud.Models.AssemblyInfo.cs
+C:\Users\Dev\source\repos\LabCrud\LabCrud.Models\obj\Debug\netcoreapp3.1\LabCrud.Models.csproj.CoreCompileInputs.cache
+C:\Users\Dev\source\repos\LabCrud\LabCrud.Models\obj\Debug\netcoreapp3.1\LabCrud.Models.dll
+C:\Users\Dev\source\repos\LabCrud\LabCrud.Models\obj\Debug\netcoreapp3.1\LabCrud.Models.pdb
